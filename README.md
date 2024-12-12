@@ -3,6 +3,8 @@ Analyzing the correlation of products sold and time of day
 
 This project analyzes sales data to extract valuable insights and trends. The notebook focuses on cleaning, aggregating, and visualizing sales data to provide actionable information for decision-making.
 
+The results yielded by this project show that sales peak in the late morning and evening time. This can be incorporated into business decisions to target those times for increased sales.
+
 ## Key Features
 
 1. Data Import and Cleaning
